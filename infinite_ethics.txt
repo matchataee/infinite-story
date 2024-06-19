@@ -1,0 +1,20 @@
+Q1: You should notice that these names are quite popular in a lot of countries. What type of countries/regions keep showing up for these names? Do you feel like they are distributed evenly across the world population?
+
+# TODO: your answer here
+NA / EU
+Not really; reflects dominant North American / European influence in most of programming. Also reflected in OpenAI leadership / culture as understandably it is based in SF. 
+
+
+Q2: How comfortable do you feel letting the AI model decide the names used in the story? Are you willing to trust the model with other storytelling decisions?
+
+# TODO: your answer here
+Names are relatively unharmful, but many groups can be excluded. Barriers should be set in place for more advanced situations, especially with critical decisions (i.e those relating to technical issues, or those of equity)
+
+
+Q3: What sorts of issues could you imagine coming up if instead of asking ChatGPT to generate a story, you were using ChatGPT to evaluate candidates for a job?
+
+# TODO: your answer here
+- Systemic Biases in LLMs (a result of training data)
+- Missed considerations from those training them (predominantly American)
+- Inability to consider certain factors in making decisions (e.g. who is the better candidate when some other metrics are there, but not obvious?)
+- Trying to not be opinionated but truthfully LLMs sorely are.
